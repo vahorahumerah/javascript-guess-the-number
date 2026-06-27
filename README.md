@@ -50,4 +50,3 @@ javascript-guess-the-number/
 
 **Vahora Humerah U.**
 - GitHub: [@vahorahumerah](https://github.com/vahorahumerah)
-"# javascript-guess-the-number" 
